@@ -5,7 +5,7 @@ import java.util.List;
 public class PrimosPal extends Thread {
 
 	//Numero el cual seran evaluados
-	private static int NUM = 100000;
+	private static int NUM = 1000000;
 
 	private static List<Integer> lista_primosCirculares = new ArrayList<Integer>();
 
